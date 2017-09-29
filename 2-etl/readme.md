@@ -39,6 +39,7 @@ need to access are:
 - purchasing.shipmethod
 - purchasing.vendor
 
+
 To access the data in these tables, we'll use the *Table Input* step in Data
 Integration. Expand the *Input* folder in the *Design* pane and drag-and-drop
 the *Table Input* step to the right-hand pane.  Double-click the newly created
@@ -204,6 +205,11 @@ You should now be able to run the transformation without errors and create
 two data files with content.
 
 Save the transformation and submit the file via Blackboard.
+
+A complete series of ETL transformations to create dimensional and fact tables 
+is pictured below.
+
+![full etl](images/full_etl.png)
 
 ## Exercise
 
