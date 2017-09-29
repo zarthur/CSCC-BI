@@ -22,8 +22,7 @@ the database structure.
 
 To begin, download the Data Integration zip file from https://community.hds.com/docs/DOC-1009855.
 Once downloaded, unzip the file.  To start the program in Windows, double-click
-the `Spoon.bat` file.  If the program does not start, open the `Spoon.bat` file 
-in notepad, and replace `start javaw` in the last line of the file with `java`.
+the `Spoon.bat` file. 
 
 Once the program has started, click the *New File* icon in the upper left 
 corner of the window and select transformation.  
