@@ -1,2 +1,2 @@
-# CSCI-BI-Fundamentals
-Material for Business Intelligence Fundamentals
+# CSCI-BI
+Material for Business Intelligence Courses
